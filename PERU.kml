@@ -131,12 +131,15 @@
         <styleUrl>#poly-FF0000-1000-0-highlight</styleUrl>
       </Pair>
     </StyleMap>
+
+
     <Folder>
       <name>PERÚ</name>
       <Placemark>
         <name>Peru</name>
         <description>PER</description>
         <styleUrl>#poly-DF0000-1101-0</styleUrl>
+        <altitudeMode>relative</altitudeMode>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -12675,6 +12678,7 @@
         <name>La Libertad</name>
         <description>Región</description>
         <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <altitudeMode>relative</altitudeMode>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -18021,6 +18025,7 @@
         <name>Trujillo</name>
         <description>Provincia</description>
         <styleUrl>#poly-AA0000-1000-0</styleUrl>
+        <altitudeMode>relative</altitudeMode>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -20568,6 +20573,7 @@
         <name>Trujillo</name>
         <description>Distrito</description>
         <styleUrl>#poly-55007F-2000-0</styleUrl>
+        <altitudeMode>relative</altitudeMode>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
